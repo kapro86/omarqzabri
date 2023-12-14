@@ -1,0 +1,31 @@
+{
+  "ads": [
+    {
+      "ad_status": "on",
+      "ad_type": "admob",
+
+
+      "admob_publisher_id": "pub-1234819124237609",
+      "admob_banner_unit_id": "ca-app-pub-1234819124237609/2194415275",
+      "admob_interstitial_unit_id": "ca-app-pub-1234819124237609/6641190070", 
+      "admob_app_open_unit_id": "ca-app-pub-1234819124237609/7362981475",
+      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "startapp_app_id":"209556084" ,
+      "applovin_banner_unit_id": "0cddb50bea108adb",
+      "applovin_interstitial_unit_id": "2f98338194949e0e",
+      "interstitial_ad_interval": 4
+
+    }
+  ],
+  "settings": [
+    {
+      "ad_time": "10000",
+      "ad_time_rate": "80",
+      "quran_link":"https://server9.mp3quran.net/omar_warsh/" ,
+      "facebook":"https://m.facebook.com/QoranFull" ,
+      "twitter":"https://mobile.twitter.com/FreeQuranMp3" ,
+      "insagram":"https://www.instagram.com/lestenquran"
+
+    }]}
